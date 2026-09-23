@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Farah 👋
 
-<!--
-**FarahSamer-eng/FarahSamer-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Graduate | 🔐 Cybersecurity & Information Security
 
-Here are some ideas to get you started:
+I'm a Cybersecurity graduate from Al Ain University with a strong interest in cybersecurity operations, security analysis, vulnerability assessment, and information security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working toward **CompTIA Security+** and building practical cybersecurity experience through hands-on labs and security projects.
+
+## 🔐 Cybersecurity Projects
+
+### 🛡️ SOC Incident Investigation
+
+Investigated security events using Splunk SIEM, analyzed logs, identified indicators of compromise, and documented findings.
+
+🔗 [View Project](https://github.com/FarahSamer-eng/SOC-Incident-Investigation)
+
+### 🌐 Network Vulnerability Assessment
+
+Performed network enumeration and vulnerability assessment using Nmap, Nikto, NSE, and OpenVAS in a controlled environment.
+
+🔗 [View Project](https://github.com/FarahSamer-eng/Network-Vulnerability-Assessment)
+
+### 🎣 Phishing Email Analysis
+
+Analyzed phishing emails, spoofed senders, malicious links, URL redirection, credential harvesting, tracking pixels, and suspicious attachments.
+
+🔗 [View Project](https://github.com/FarahSamer-eng/Phishing-Email-Analysis)
+
+## 🧰 Skills
+
+* Cybersecurity & Information Security
+* Security Awareness
+* SOC & SIEM Analysis
+* Vulnerability Assessment
+* Phishing Analysis
+* Network Security
+* Email Security
+* Security Reporting
+* Nmap
+* Splunk
+* TryHackMe
+
+## 📜 Certifications
+
+* CompTIA Security+ — In Progress
+
+## 🎓 Education
+
+**B.Sc. in Cybersecurity — Al Ain University**
+Distinction Honors | GPA: 3.87
+
+## 🏆 Research & Achievements
+
+* Best Paper Award — 17th Student Research Conference (SRC26), Zayed University
+* Third Place Winner — Capstone Poster Showcase
+* Cybersecurity Research & Academic Projects
+
+## 📫 Connect With Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/farah-samer-b35201386)
