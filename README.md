@@ -49,9 +49,16 @@ Analyzed phishing emails, spoofed senders, malicious links, URL redirection, cre
 **B.Sc. in Cybersecurity — Al Ain University**
 Distinction Honors | GPA: 3.87
 
-## 🏆 Research & Achievements
+## 📄 Research & Publications
 
-* Best Paper Award — 17th Student Research Conference (SRC26), Zayed University
+### Self-Healing Cryptographic Protocols for Autonomous Network Defense
+
+**Best Paper Award — 17th Student Research Conference on Applied Computing (SRC26)**
+
+🔗 [View Published Paper on IEEE Xplore](https://ieeexplore.ieee.org/document/11550470)
+
+## 🏆 Achievements
+
 * Third Place Winner — Capstone Poster Showcase
 * Cybersecurity Research & Academic Projects
 
